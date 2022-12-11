@@ -16,7 +16,7 @@ const DropdownItem = ({
       ) : (
         <></>
       )}
-      <div className="text-sm text-specialGray group-hover:text-specialBlack whitespace-nowrap leading-7">
+      <div className="md:text-sm text-lg text-specialGray group-hover:text-specialBlack whitespace-nowrap md:leading-7 leading-9">
         {name}
       </div>
     </button>

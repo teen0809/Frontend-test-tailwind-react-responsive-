@@ -12,7 +12,7 @@ const Body = () => {
       <div className="md:w-6/12 w-full flex flex-col items-center">
         <div className="h-full flex flex-col justify-between">
           <div className="md:block flex flex-col items-center">
-            <div className="font-black xl:text-[4.75rem] lg:text-6xl md:text-5xl text-4xl xl:leading-[5rem] lg:leading-[4rem] leading-[3rem] text-specialBlack whitespace-nowrap lg:pt-24 pt-16 lg:pb-8 pb-3">
+            <div className="font-black xl:text-[4.75rem] lg:text-6xl md:text-5xl text-4xl xl:leading-[5rem] lg:leading-[4rem] leading-[3rem] text-specialBlack md:whitespace-nowrap whitespace-normal md:text-left text-center  lg:pt-24 pt-16 lg:pb-8 pb-3">
               Make <br className="md:block hidden" />
               remote work
             </div>
